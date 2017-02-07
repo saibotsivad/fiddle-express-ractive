@@ -1,0 +1,25 @@
+{
+  "name": "fiddle-express-ractive",
+  "version": "0.0.1",
+  "description": "Fiddling around with ExpressJS, using RactiveJS as a renderer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/fiddle-express-ractive.git"
+  },
+  "keywords": [],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/fiddle-express-ractive/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/fiddle-express-ractive#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "ractive": "^0.8.10"
+  }
+}
