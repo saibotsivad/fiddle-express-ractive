@@ -20,6 +20,6 @@
   "homepage": "https://github.com/saibotsivad/fiddle-express-ractive#readme",
   "dependencies": {
     "express": "^4.14.1",
-    "ractive": "^0.8.10"
+    "ractive": "^0.9.3"
   }
 }
